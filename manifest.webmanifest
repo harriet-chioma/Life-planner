@@ -1,0 +1,19 @@
+{
+  "name": "Life Planner 2027",
+  "short_name": "Planner",
+  "description": "Plan your 2027 goals, track weekly steps, journal, mood, and money.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f2ea",
+  "theme_color": "#7d3f60",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
